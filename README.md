@@ -1,3 +1,10 @@
+## PREREQUISITES
+
+Must install Node js:
+
+[https://nodejs.org/en]
+
+
 ## BACKEND
 
 In the project navigate to Backend directory, and run:
