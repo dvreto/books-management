@@ -13,7 +13,7 @@ In the project navigate to Backend directory, and run:
 
 After the installation of the node modules the app can be run using the following command:
 
-### `node index.js`
+### `npm start`
 
 
 
@@ -25,6 +25,6 @@ In the project navigate to Frontend directory, and run:
 
 After the installation of the node modules the app can be run using the following command:
 
-### `nodemon index.js`
+### `npm start`
 
 Open [http://localhost:3001](http://localhost:3001) to view it in your browser.
