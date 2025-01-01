@@ -17,7 +17,7 @@ After the installation of the node modules the app can be run using the followin
 
 
 
-## Frontend
+## FRONTEND
 
 In the project navigate to Frontend directory, and run:
 
